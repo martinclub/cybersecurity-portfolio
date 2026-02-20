@@ -6,6 +6,12 @@ This repository contains my progress and projects completed during the **Google 
 
 ## 🔐 Course Projects
 
+### [Course 1: Foundations of Cybersecurity](./Course-1-Foundations-of-Cybersecurity/)
+**Objective:** Understanding the basics of cybersecurity, historical context, and professional development.
+
+- **Featured Project: [Professional Statement](./Course-1-Foundations-of-Cybersecurity/Professional-Statement.md)**
+  - **Summary:** Developed a professional statement outlining core strengths, values, and career goals.
+
 ### [Course 2: Play It Safe: Manage Security Risks](./Course-2-Play-It-Safe-Manage-Security-Risks/)
 **Objective:** Focuses on the "Identify" and "Protect" functions of the NIST Cybersecurity Framework (CSF).
 
@@ -16,7 +22,6 @@ This repository contains my progress and projects completed during the **Google 
 ---
 
 ## 📂 Other Courses (Coming Soon)
-- Course 1: Foundations of Cybersecurity
 - Course 3: Connect and Protect: Networks and Network Security
 - Course 4: Tools of the Trade: Linux and SQL
 - Course 5: Assets, Threats, and Vulnerabilities
