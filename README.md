@@ -21,8 +21,19 @@ This repository contains my progress and projects completed during the **Google 
 
 ---
 
+### [Course 3: Connect and Protect: Networks and Network Security](./Course-3-Connect-and-Protect-Networks-and-Network-Security/)
+**Objective:** Focuses on network security, analyzing traffic, and identifying common network-based attacks.
+
+- **Featured Project: [TCP SYN Flood Incident Analysis](./Course-3-Connect-and-Protect-Networks-and-Network-Security/TCP-SYN-Flood-Report.md)**
+  - **Summary:** Investigated a Denial of Service (DoS) attack on a travel agency web server. Analyzed TCP handshake exploitation and proposed mitigation strategies like SYN Cookies.
+- **Featured Project: [Network Traffic Analysis (DNS/ICMP)](./Course-3-Connect-and-Protect-Networks-and-Network-Security/Network-Traffic-Analysis-Exercise.md)**
+  - **Summary:** Analyzed `tcpdump` logs to diagnose a connection failure. Identified a service-level failure in DNS (Port 53) using ICMP error responses.
+- **Featured Project: [DoS Attack Analysis on Multimedia Company](./Course-3-Connect-and-Protect-Networks-and-Network-Security/Incident-Report-Analysis.md)**
+  - **Summary:** Responded to a large-scale ICMP flood attack. Implemented firewall hardening and rate limiting as part of the NIST "Detect" and "Respond" functions.
+
+---
+
 ## 📂 Other Courses (Coming Soon)
-- Course 3: Connect and Protect: Networks and Network Security
 - Course 4: Tools of the Trade: Linux and SQL
 - Course 5: Assets, Threats, and Vulnerabilities
 - Course 6: Sound the Alarm: Detection and Response
